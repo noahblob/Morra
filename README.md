@@ -1,2 +1,4 @@
-# Morra
-A Java implementation of the traditional Italian hand game, Morra.
+# Assignment 1
+
+You will find instructions for this assignment on the course website.
+
