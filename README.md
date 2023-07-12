@@ -1,4 +1,3 @@
-# Assignment 1
+# Morra
 
-You will find instructions for this assignment on the course website.
-
+A java implementation of the traditional Italian hand game, Morra.
